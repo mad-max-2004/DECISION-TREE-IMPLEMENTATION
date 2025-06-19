@@ -12,6 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
+*TASK-1*
 *DESCRIPTION*:
 
 ->This project implements a Decision Tree Classifier using Scikit-learn to predict outcomes based on car-related attributes. It includes data preprocessing, model training, tree visualization, and performance evaluation—all presented in a clear and structured Jupyter Notebook.
