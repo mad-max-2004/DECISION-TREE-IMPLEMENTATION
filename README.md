@@ -102,3 +102,7 @@ Accuracy Score: ~(value varies based on your data)
 Precision/Recall: Provided in the classification report
 
 Visual tree helps interpret which features drive the classification the most
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a51a2a2e-bd5c-4622-b729-576f6c45711b)
