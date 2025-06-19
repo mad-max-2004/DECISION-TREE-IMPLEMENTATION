@@ -45,13 +45,9 @@ Visualize the decision tree structure.
 Analyze model performance using evaluation metrics.
 
 ->Tools & Libraries
-
 Python
-
 Pandas
-
 NumPy
-
 Matplotlib
 
 Scikit-learn
